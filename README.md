@@ -1,4 +1,4 @@
-# Hi there, I'm - Vlad Sushko 👋
+# Hi there, I'm - Vlad Sushko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
 ![Front-end dev.](./img/Cover.png)
 
