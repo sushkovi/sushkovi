@@ -1,4 +1,4 @@
-# Hi there, I'm - Vlad Sushko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+# Hi there, I'm - Vlad Sushko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">,
 
 ## My Website
 ### https://sushkovi.vercel.app/
